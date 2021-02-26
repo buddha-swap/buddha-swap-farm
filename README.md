@@ -13,4 +13,3 @@ https://pancakeswap.finance. Feel free to read the code. More details coming soo
 - MasterChef - https://bscscan.com/address/0x11c362B48B345F101483B4dF9310eDE29A303de1
 - Factory - https://bscscan.com/address/0x6231AA4838Ab034e443907Dc4B20469AfA0c2c86
 - Router - https://bscscan.com/address/0x8ffDEcf8a190aCF670498a404492186ac3dd6127
-- MultiCall - 0xE1dDc30f691CA671518090931e3bFC1184BFa4Aa
